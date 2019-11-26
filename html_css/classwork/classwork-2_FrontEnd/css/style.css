@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.sertiz{
+    background:url("../img/Layer 21@1X.png") ;
+    height: 900px;
+    width: 1600px;
+    color:#ffffff;
+}
+.sertiz-top{
+    padding: 530px 0 145px 215px;
+}
+.sertiz-header{
+}
+.sertiz-paragraph {
+    font-size: 18px;
+    color: #ffffff;
+}
+.sertiz-slogan{
+    height: 129px;
+    width: 831px;
+    padding: 45px 30px;
+    display: inline-block;
+    border: 1px solid white;
+    text-transform: uppercase;
+    background-color: rgba(0,0,0,0.5);
+    font-size: 54px;
+}
+.text{
+    display: inline-block;
+}
+.yellow{
+    color:yellow;
+    display: inline-block;
+}
+.sertiz-context{
+    color:#ffffff;
+}

@@ -1,0 +1,17 @@
+.square{
+    background-color: teal;
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    display: inline-block;
+    border: 7px solid red;
+}
+
+.colored-text{
+    font-size: 24px;
+    background-color: yellow;
+    padding: 10px;
+}
+.ten-percent-smaller{
+    transform: scale(0.9);/* 10% daha kicik*/
+}
